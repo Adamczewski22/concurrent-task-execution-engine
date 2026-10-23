@@ -1,0 +1,6 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/ConcurrentTaskEngine.Demo/ConcurrentTaskEngine.Demo.csproj" />
+    <Project Path="src/ConcurrentTaskEngine/ConcurrentTaskEngine.csproj" />
+  </Folder>
+</Solution>
