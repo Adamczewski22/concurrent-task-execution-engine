@@ -1,6 +1,12 @@
 <Solution>
+  <Folder Name="/benchmarks/">
+    <Project Path="benchmarks/ConcurrentTaskEngine.Benchmarks/ConcurrentTaskEngine.Benchmarks.csproj" />
+  </Folder>
   <Folder Name="/src/">
     <Project Path="src/ConcurrentTaskEngine.Demo/ConcurrentTaskEngine.Demo.csproj" />
     <Project Path="src/ConcurrentTaskEngine/ConcurrentTaskEngine.csproj" />
+  </Folder>
+  <Folder Name="/tests/">
+    <Project Path="tests/ConcurrentTaskEngine.Tests/ConcurrentTaskEngine.Tests.csproj" />
   </Folder>
 </Solution>
